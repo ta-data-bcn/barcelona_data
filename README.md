@@ -10,6 +10,7 @@ Here you have a lot of information about our city. You have a lot of information
 * Choose the data interesting for your questions. 
 * Think about more data would be great to have.
 * Propose a structure for the database (add the aggregates you think that will be useful). You don't need to give us a very detailed structure with the data types, only the tables you would create and some relations between them.
+* You can't do any plot!!
 
 
 ## Some hints
@@ -44,6 +45,28 @@ Here you have a lot of information about our city. You have a lot of information
 * Do some brainstorming thinking some interesting questions you could do and which data you would use.
 * Look for some more data [in Barcelona Open Data page](https://opendata-ajuntament.barcelona.cat/en) and [in Catalonia governement webpage](http://governobert.gencat.cat/es/dades_obertes/) and in [Spanish governement webpage](https://datos.gob.es/en).
 * Define the tasks you will do, setting those ones to be done individually and those ones to be done pairing.
+
+
+## About the presentation
+* You will have ten minutes to do your presentation. Take at least 8 of the slides proposed.
+* Send your slides to the TAs at least 30 minutes before the time of the presentation.
+* We will spend 1 hour presenting approx, then 5 minutes to break and then have a short debate about the projects.
+
+
+## Slides
+
+* Title of the project
+* Presentation of the team
+* Your main challenges
+* Your greatest strengths
+* Your first experience with Kanban: did you follow always the methodology? did you need to add more tasks? advantages / disadvantages...
+* About your data: useful sources you have used, data you have found but it is uncomplete, data that would have been great to have, etc
+* About the data you decided to use: how you would save it (a photo of the structure proposed would be great, don't need to import the data or create the tables in the database), new data you would add (aggregates, etc)
+* Your main insights
+* Arguments for the insights (do some screenshots of the data)
+* Questions you couldn't answer
+* Something funny that happened during the project
+* Learnings with this project
 
 
 ## Datasets
