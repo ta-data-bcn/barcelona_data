@@ -1,0 +1,74 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Població","Domicilis","Ocupació mitjana (persones per domicili)"
+2012,1,"Ciutat Vella",1,"el Raval",49844,17503,2.8
+2012,1,"Ciutat Vella",2,"el Barri Gòtic",16754,6892,2.4
+2012,1,"Ciutat Vella",3,"la Barceloneta",15745,7114,2.2
+2012,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",22873,10138,2.3
+2012,2,"Eixample",5,"el Fort Pienc",32225,13123,2.5
+2012,2,"Eixample",6,"la Sagrada Família",52007,22314,2.3
+2012,2,"Eixample",7,"la Dreta de l'Eixample",43436,18449,2.4
+2012,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",41887,18281,2.3
+2012,2,"Eixample",9,"la Nova Esquerra de l'Eixample",57760,24687,2.3
+2012,2,"Eixample",10,"Sant Antoni",38277,16596,2.3
+2012,3,"Sants-Montjuïc",11,"el Poble Sec",41380,16382,2.5
+2012,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",1046,405,2.6
+2012,3,"Sants-Montjuïc",13,"la Marina de Port",30256,11676,2.6
+2012,3,"Sants-Montjuïc",14,"la Font de la Guatlla",10236,4302,2.4
+2012,3,"Sants-Montjuïc",15,"Hostafrancs",16094,6652,2.4
+2012,3,"Sants-Montjuïc",16,"la Bordeta",18498,7509,2.5
+2012,3,"Sants-Montjuïc",17,"Sants - Badal",24574,10076,2.4
+2012,3,"Sants-Montjuïc",18,"Sants",41530,17452,2.4
+2012,4,"Les Corts",19,"les Corts",46698,19162,2.4
+2012,4,"Les Corts",20,"la Maternitat i Sant Ramon",23762,9675,2.5
+2012,4,"Les Corts",21,"Pedralbes",11778,4285,2.7
+2012,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",4398,1527,2.9
+2012,5,"Sarrià-Sant Gervasi",23,"Sarrià",24362,8947,2.7
+2012,5,"Sarrià-Sant Gervasi",24,"les Tres Torres",16008,5576,2.9
+2012,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",24552,9228,2.7
+2012,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",46466,18566,2.5
+2012,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",29618,12263,2.4
+2012,6,"Gràcia",28,"Vallcarca i els Penitents",15521,6519,2.4
+2012,6,"Gràcia",29,"el Coll",7222,3060,2.4
+2012,6,"Gràcia",30,"la Salut",13196,5448,2.4
+2012,6,"Gràcia",31,"la Vila de Gràcia",51025,23304,2.2
+2012,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",34582,14992,2.3
+2012,7,"Horta-Guinardó",33,"el Baix Guinardó",25768,10905,2.4
+2012,7,"Horta-Guinardó",34,"Can Baró",8990,3782,2.4
+2012,7,"Horta-Guinardó",35,"el Guinardó",35697,15134,2.4
+2012,7,"Horta-Guinardó",36,"la Font d'en Fargues",9498,3700,2.6
+2012,7,"Horta-Guinardó",37,"el Carmel",32323,12963,2.5
+2012,7,"Horta-Guinardó",38,"la Teixonera",11410,4658,2.4
+2012,7,"Horta-Guinardó",39,"Sant Genís dels Agudells",6922,2868,2.4
+2012,7,"Horta-Guinardó",40,"Montbau",5090,2141,2.4
+2012,7,"Horta-Guinardó",41,"la Vall d'Hebron",5545,2204,2.5
+2012,7,"Horta-Guinardó",42,"la Clota",456,176,2.6
+2012,7,"Horta-Guinardó",43,"Horta",26816,10770,2.5
+2012,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",25584,10458,2.4
+2012,8,"Nou Barris",45,"Porta",24772,10140,2.4
+2012,8,"Nou Barris",46,"el Turó de la Peira",15428,6126,2.5
+2012,8,"Nou Barris",47,"Can Peguera",2242,920,2.4
+2012,8,"Nou Barris",48,"la Guineueta",15143,6220,2.4
+2012,8,"Nou Barris",49,"Canyelles",7144,2788,2.6
+2012,8,"Nou Barris",50,"les Roquetes",16018,5937,2.7
+2012,8,"Nou Barris",51,"Verdun",12407,5090,2.4
+2012,8,"Nou Barris",52,"la Prosperitat",26515,10691,2.5
+2012,8,"Nou Barris",53,"la Trinitat Nova",7692,2998,2.6
+2012,8,"Nou Barris",54,"Torre Baró",2178,716,3
+2012,8,"Nou Barris",55,"Ciutat Meridiana",10709,3585,3
+2012,8,"Nou Barris",56,"Vallbona",1329,473,2.8
+2012,9,"Sant Andreu",57,"la Trinitat Vella",10487,3513,3
+2012,9,"Sant Andreu",58,"Baró de Viver",2393,941,2.5
+2012,9,"Sant Andreu",59,"el Bon Pastor",12990,4700,2.8
+2012,9,"Sant Andreu",60,"Sant Andreu",56204,23242,2.4
+2012,9,"Sant Andreu",61,"la Sagrera",29038,11695,2.5
+2012,9,"Sant Andreu",62,"el Congrés i els Indians",14112,5965,2.4
+2012,9,"Sant Andreu",63,"Navas",21728,8834,2.5
+2012,10,"Sant Martí",64,"el Camp de l'Arpa del Clot",38232,16330,2.3
+2012,10,"Sant Martí",65,"el Clot",27201,10785,2.5
+2012,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",14147,5864,2.4
+2012,10,"Sant Martí",67,"la Vila Olímpica del Poblenou",9322,3554,2.6
+2012,10,"Sant Martí",68,"el Poblenou",32816,13358,2.5
+2012,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",12701,5264,2.4
+2012,10,"Sant Martí",70,"el Besòs i el Maresme",23732,8397,2.8
+2012,10,"Sant Martí",71,"Provençals del Poblenou",19952,8005,2.5
+2012,10,"Sant Martí",72,"Sant Martí de Provençals",26152,10675,2.4
+2012,10,"Sant Martí",73,"la Verneda i la Pau",29201,11505,2.5
